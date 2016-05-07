@@ -1,3 +1,3 @@
 $(function(){
-  d3.select('.d3rem').style('color', '#6f7a81');
+  d3.select('.d3rem').style('color', '#627a81');
 });
